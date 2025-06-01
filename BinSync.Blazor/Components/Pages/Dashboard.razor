@@ -1,0 +1,48 @@
+﻿@page "/"
+
+<div class="dashboard">
+    <div class="dashboard-content">
+        <div class="top-bar">
+            <input type="text" placeholder="Search" class="search-box" />
+            <div class="usage-label">Free: 250 GB of 500 GB used</div>
+        </div>
+
+        <div class="top-cards">
+            <div class="card usage-card">
+                <div class="title">Usage</div>
+                <div class="circle">250 GB<br /><small>500 GB</small></div>
+            </div>
+            <div class="card license-card">
+                <div class="title">License Status</div>
+                <a href="#" class="upgrade-link">Upgrade</a>
+            </div>
+            <div class="card p2p-card">
+                <div class="title">P2P Status</div>
+                <div class="peers">500<br /><small>Active Peers</small></div>
+            </div>
+        </div>
+
+        <div class="middle-row">
+            <div class="card recent-activity">
+                <div class="title">Recent Activity</div>
+                <div class="activity">
+                    <div><b>file.txt</b> – 10 MB – Downloaded</div>
+                    <div><b>image.jpg</b> – 5 MB – Uploaded</div>
+                    <div><b>image.jpg</b> – 51 MB – Downloaded</div>
+                    <div><b>archive.zip</b> – 20 MB – Downloaded</div>
+                </div>
+                <div class="actions">
+                    <button>Upload File</button>
+                    <button>Create Seed</button>
+                    <button>Import .nzb</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="bottom-summary">
+            <div class="summary-box">Upload File<br /><b>250 GB</b></div>
+            <div class="summary-box">P2P Peers<br /><b>500</b></div>
+            <div class="summary-box">Queued Tasks<br /><b>10</b></div>
+        </div>
+    </div>
+</div>

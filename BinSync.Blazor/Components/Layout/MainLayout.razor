@@ -1,0 +1,38 @@
+﻿@inherits LayoutComponentBase
+
+<div class="layout-container">
+    <div class="sidebar">
+        <Sidebar />
+    </div>
+
+    <main class="main-content">
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+<style>
+    .layout-container {
+        display: flex;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .sidebar {
+        width: 220px;
+        background-color: #f5f5f5;
+        box-shadow: 1px 0 4px rgba(0, 0, 0, 0.1);
+        height: 100vh;
+        overflow-y: auto;
+    }
+
+    .main-content {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        overflow: auto;
+        padding: 1rem;
+        background-color: #ffffff;
+    }
+</style>

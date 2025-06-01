@@ -1,0 +1,11 @@
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\bin\Debug\net8.0\BinSync.SeedServer.deps.json
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\bin\Debug\net8.0\BinSync.SeedServer.dll
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\bin\Debug\net8.0\BinSync.SeedServer.pdb
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.AssemblyInfoInputs.cache
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.AssemblyInfo.cs
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.dll
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\refint\BinSync.SeedServer.dll
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.pdb
+C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\ref\BinSync.SeedServer.dll

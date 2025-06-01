@@ -1,0 +1,11 @@
+C:\Users\RT\source\repos\Binsync\BinSync.Application\bin\Debug\net8.0\BinSync.Application.deps.json
+C:\Users\RT\source\repos\Binsync\BinSync.Application\bin\Debug\net8.0\BinSync.Application.dll
+C:\Users\RT\source\repos\Binsync\BinSync.Application\bin\Debug\net8.0\BinSync.Application.pdb
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\BinSync.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\BinSync.Application.AssemblyInfoInputs.cache
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\BinSync.Application.AssemblyInfo.cs
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\BinSync.Application.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\BinSync.Application.dll
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\refint\BinSync.Application.dll
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\BinSync.Application.pdb
+C:\Users\RT\source\repos\Binsync\BinSync.Application\obj\Debug\net8.0\ref\BinSync.Application.dll

@@ -1,0 +1,28 @@
+.page[b-ykrpr6ni0u] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-ykrpr6ni0u] {
+    flex: 1;
+}
+
+.sidebar[b-ykrpr6ni0u] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+
+@media (min-width: 641px) {
+    .page[b-ykrpr6ni0u] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-ykrpr6ni0u] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+    
+}
