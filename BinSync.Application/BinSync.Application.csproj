@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Upload\Commands\" />
+    <Folder Include="Upload\Queries\" />
+  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\BinSync.Core\BinSync.Core.csproj" />
+	</ItemGroup>
 </Project>

@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BinSync.Core\BinSync.Core.csproj" />
+    <ProjectReference Include="..\BinSync.Infrastructure\BinSync.Infrastructure.csproj" />
+	<ProjectReference Include="..\BinSync.Application\BinSync.Application.csproj" />
+  </ItemGroup>
+
 </Project>
