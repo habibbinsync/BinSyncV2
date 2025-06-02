@@ -146,3 +146,6 @@ docker-compose.override.yml
 docker-compose.*.yml
 
 # End of file
+BinSync.Infrastructure/Migrations/20250602171013_initial.cs
+BinSync.Infrastructure/Migrations/20250602171013_initial.Designer.cs
+BinSync.Infrastructure/Migrations/BinSyncDbContextModelSnapshot.cs
