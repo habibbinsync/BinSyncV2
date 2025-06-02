@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Core\\BinSync.Core.csproj": {}
+    "C:\\BinSyncV2\\BinSync.Core\\BinSync.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Core\\BinSync.Core.csproj": {
+    "C:\\BinSyncV2\\BinSync.Core\\BinSync.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Core\\BinSync.Core.csproj",
+        "projectUniqueName": "C:\\BinSyncV2\\BinSync.Core\\BinSync.Core.csproj",
         "projectName": "BinSync.Core",
-        "projectPath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Core\\BinSync.Core.csproj",
+        "projectPath": "C:\\BinSyncV2\\BinSync.Core\\BinSync.Core.csproj",
         "packagesPath": "C:\\Users\\RT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Core\\obj\\",
+        "outputPath": "C:\\BinSyncV2\\BinSync.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Projects\\local-nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

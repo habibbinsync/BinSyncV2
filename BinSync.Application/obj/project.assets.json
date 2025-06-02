@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RT\\source\\repos\\BinSync\\BinSync.Application\\BinSync.Application.csproj",
+      "projectUniqueName": "C:\\BinSyncV2\\BinSync.Application\\BinSync.Application.csproj",
       "projectName": "BinSync.Application",
-      "projectPath": "C:\\Users\\RT\\source\\repos\\BinSync\\BinSync.Application\\BinSync.Application.csproj",
+      "projectPath": "C:\\BinSyncV2\\BinSync.Application\\BinSync.Application.csproj",
       "packagesPath": "C:\\Users\\RT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Application\\obj\\",
+      "outputPath": "C:\\BinSyncV2\\BinSync.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,7 +34,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://www.nuget.org/api/v2/": {}
+        "C:\\Projects\\local-nugets": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {

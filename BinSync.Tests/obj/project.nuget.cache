@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZWQBtPbdV4=",
+  "dgSpecHash": "uWogtofehrQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Tests\\BinSync.Tests.csproj",
+  "projectFilePath": "C:\\BinSyncV2\\BinSync.Tests\\BinSync.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RT\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\RT\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

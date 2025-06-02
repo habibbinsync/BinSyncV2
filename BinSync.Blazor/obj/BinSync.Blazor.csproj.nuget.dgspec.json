@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\BinSync.Blazor.csproj": {}
+    "C:\\BinSyncV2\\BinSync.Blazor\\BinSync.Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\BinSync.Blazor.csproj": {
+    "C:\\BinSyncV2\\BinSync.Blazor\\BinSync.Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\BinSync.Blazor.csproj",
+        "projectUniqueName": "C:\\BinSyncV2\\BinSync.Blazor\\BinSync.Blazor.csproj",
         "projectName": "BinSync.Blazor",
-        "projectPath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\BinSync.Blazor.csproj",
+        "projectPath": "C:\\BinSyncV2\\BinSync.Blazor\\BinSync.Blazor.csproj",
         "packagesPath": "C:\\Users\\RT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\obj\\",
+        "outputPath": "C:\\BinSyncV2\\BinSync.Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -31,7 +31,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Projects\\local-nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-android34.0": {

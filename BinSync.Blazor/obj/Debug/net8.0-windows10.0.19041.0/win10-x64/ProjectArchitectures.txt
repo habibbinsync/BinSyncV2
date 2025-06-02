@@ -1,1 +1,1 @@
-C:\Users\RT\source\repos\Binsync\BinSync.Blazor\BinSync.Blazor.csproj;x64
+C:\BinSyncV2\BinSync.Blazor\BinSync.Blazor.csproj;x64

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-2PAOJJV</Machine>
-    <WindowsUser>Habib</WindowsUser>
+    <Machine>DESKTOP-N3KR2TF</Machine>
+    <WindowsUser>RT</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.binsync.blazor</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\RT\source\repos\Binsync\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\BinSyncV2\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>5D62B031C50CAFB87808439D3728A82A7FDBFD51A88B952B97F968BF0BF0CE28</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.binsync.blazor_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.binsync.blazor_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,288 +27,288 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\BinSyncV2\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-05-22T12:03:04.050</Modified>
+      <Modified>2025-06-02T12:36:42.334</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-05-21T12:53:38.935</Modified>
+      <Modified>2025-06-02T12:36:42.047</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BinSync.Blazor.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BinSync.Blazor.runtimeconfig.json">
       <PackagePath>BinSync.Blazor.runtimeconfig.json</PackagePath>
-      <Modified>2025-05-21T12:17:43.939</Modified>
+      <Modified>2025-06-02T12:36:41.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BinSync.Blazor.dll">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BinSync.Blazor.dll">
       <PackagePath>BinSync.Blazor.dll</PackagePath>
-      <Modified>2025-05-22T09:49:26.807</Modified>
+      <Modified>2025-06-02T12:36:40.533</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BinSync.Blazor.exe</PackagePath>
-      <Modified>2025-05-22T09:49:26.906</Modified>
+      <Modified>2025-06-02T12:36:40.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2025-05-20T15:35:07.093</Modified>
+      <Modified>2025-06-01T17:51:27.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\wwwroot\css\app.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
-      <Modified>2025-05-21T12:57:04.298</Modified>
+      <Modified>2025-06-01T17:51:34.131</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\wwwroot\css\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
-      <Modified>2025-05-20T15:35:07.099</Modified>
+      <Modified>2025-06-01T17:51:34.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\wwwroot\css\bootstrap\bootstrap.min.css.map">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
-      <Modified>2025-05-20T15:35:07.100</Modified>
+      <Modified>2025-06-01T17:51:34.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\wwwroot\css\dashboard.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\wwwroot\css\dashboard.css">
       <PackagePath>wwwroot\css\dashboard.css</PackagePath>
-      <Modified>2025-05-21T11:58:28.828</Modified>
+      <Modified>2025-06-01T17:51:34.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\wwwroot\favicon.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\wwwroot\favicon.png">
       <PackagePath>wwwroot\favicon.png</PackagePath>
-      <Modified>2025-05-20T15:35:07.095</Modified>
+      <Modified>2025-06-01T17:51:34.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\wwwroot\index.html">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2025-05-22T12:01:00.969</Modified>
+      <Modified>2025-06-01T17:51:34.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:41.566</Modified>
+      <Modified>2025-06-02T12:36:17.367</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:41.583</Modified>
+      <Modified>2025-06-02T12:36:17.385</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:41.607</Modified>
+      <Modified>2025-06-02T12:36:17.422</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:41.651</Modified>
+      <Modified>2025-06-02T12:36:17.461</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:41.800</Modified>
+      <Modified>2025-06-02T12:36:17.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2025-05-20T15:35:07.091</Modified>
+      <Modified>2025-06-01T17:51:27.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-05-21T12:17:42.763</Modified>
+      <Modified>2025-06-02T12:36:18.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.733</Modified>
+      <Modified>2025-06-02T12:36:18.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.733</Modified>
+      <Modified>2025-06-02T12:36:18.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.732</Modified>
+      <Modified>2025-06-02T12:36:18.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.732</Modified>
+      <Modified>2025-06-02T12:36:18.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.731</Modified>
+      <Modified>2025-06-02T12:36:18.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.752</Modified>
+      <Modified>2025-06-02T12:36:18.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.751</Modified>
+      <Modified>2025-06-02T12:36:18.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.750</Modified>
+      <Modified>2025-06-02T12:36:18.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.751</Modified>
+      <Modified>2025-06-02T12:36:18.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.750</Modified>
+      <Modified>2025-06-02T12:36:18.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.756</Modified>
+      <Modified>2025-06-02T12:36:18.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.755</Modified>
+      <Modified>2025-06-02T12:36:18.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.753</Modified>
+      <Modified>2025-06-02T12:36:18.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.755</Modified>
+      <Modified>2025-06-02T12:36:18.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.754</Modified>
+      <Modified>2025-06-02T12:36:18.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.762</Modified>
+      <Modified>2025-06-02T12:36:18.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.762</Modified>
+      <Modified>2025-06-02T12:36:18.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.761</Modified>
+      <Modified>2025-06-02T12:36:18.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.760</Modified>
+      <Modified>2025-06-02T12:36:18.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.759</Modified>
+      <Modified>2025-06-02T12:36:18.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.759</Modified>
+      <Modified>2025-06-02T12:36:18.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.758</Modified>
+      <Modified>2025-06-02T12:36:18.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.756</Modified>
+      <Modified>2025-06-02T12:36:18.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.758</Modified>
+      <Modified>2025-06-02T12:36:18.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.757</Modified>
+      <Modified>2025-06-02T12:36:18.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.740</Modified>
+      <Modified>2025-06-02T12:36:18.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.739</Modified>
+      <Modified>2025-06-02T12:36:18.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.738</Modified>
+      <Modified>2025-06-02T12:36:18.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.737</Modified>
+      <Modified>2025-06-02T12:36:18.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.736</Modified>
+      <Modified>2025-06-02T12:36:18.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.745</Modified>
+      <Modified>2025-06-02T12:36:18.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.744</Modified>
+      <Modified>2025-06-02T12:36:18.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.743</Modified>
+      <Modified>2025-06-02T12:36:18.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.743</Modified>
+      <Modified>2025-06-02T12:36:18.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.741</Modified>
+      <Modified>2025-06-02T12:36:18.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.749</Modified>
+      <Modified>2025-06-02T12:36:18.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.749</Modified>
+      <Modified>2025-06-02T12:36:18.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.748</Modified>
+      <Modified>2025-06-02T12:36:18.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.747</Modified>
+      <Modified>2025-06-02T12:36:18.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.746</Modified>
+      <Modified>2025-06-02T12:36:18.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.736</Modified>
+      <Modified>2025-06-02T12:36:18.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.735</Modified>
+      <Modified>2025-06-02T12:36:18.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.735</Modified>
+      <Modified>2025-06-02T12:36:18.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.734</Modified>
+      <Modified>2025-06-02T12:36:18.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.734</Modified>
+      <Modified>2025-06-02T12:36:18.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.766</Modified>
+      <Modified>2025-06-02T12:36:18.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.765</Modified>
+      <Modified>2025-06-02T12:36:18.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.764</Modified>
+      <Modified>2025-06-02T12:36:18.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.764</Modified>
+      <Modified>2025-06-02T12:36:18.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-05-21T12:17:42.763</Modified>
+      <Modified>2025-06-02T12:36:18.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BinSync.Blazor.deps.json">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BinSync.Blazor.deps.json">
       <PackagePath>BinSync.Blazor.deps.json</PackagePath>
-      <Modified>2025-05-21T12:17:43.934</Modified>
+      <Modified>2025-06-02T12:36:41.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\RT\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -662,9 +662,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json">
       <PackagePath>BinSync.Blazor.staticwebassets.endpoints.json</PackagePath>
-      <Modified>2025-05-22T12:03:02.984</Modified>
+      <Modified>2025-06-02T12:14:32.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\RT\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -678,21 +678,21 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2024-11-07T17:07:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BinSync.Blazor.styles.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BinSync.Blazor.styles.css">
       <PackagePath>wwwroot\BinSync.Blazor.styles.css</PackagePath>
-      <Modified>2025-05-21T12:53:25.255</Modified>
+      <Modified>2025-06-02T12:14:32.203</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BinSync.Blazor.bundle.scp.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BinSync.Blazor.bundle.scp.css">
       <PackagePath>wwwroot\BinSync.Blazor.49ghrqu0w5.bundle.scp.css</PackagePath>
-      <Modified>2025-05-21T12:53:25.258</Modified>
+      <Modified>2025-06-02T12:14:32.203</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\Components\Layout\MainLayout.razor.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
-      <Modified>2025-05-21T12:53:05.365</Modified>
+      <Modified>2025-06-01T17:51:27.264</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RT\source\repos\Binsync\BinSync.Blazor\Components\Layout\Sidebar.razor.css">
+    <AppxPackagedFile Include="C:\BinSyncV2\BinSync.Blazor\Components\Layout\Sidebar.razor.css">
       <PackagePath>Components\Layout\Sidebar.razor.css</PackagePath>
-      <Modified>2025-05-20T15:35:07.110</Modified>
+      <Modified>2025-06-01T17:51:27.273</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

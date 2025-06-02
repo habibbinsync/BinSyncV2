@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pEGjeYhLUo=",
+  "dgSpecHash": "yvhaOxI2sZ8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\BinSync.Blazor.csproj",
+  "projectFilePath": "C:\\BinSyncV2\\BinSync.Blazor\\BinSync.Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RT\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\RT\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",

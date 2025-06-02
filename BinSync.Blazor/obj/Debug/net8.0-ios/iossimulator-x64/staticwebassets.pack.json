@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\BinSync.Blazor.styles.css",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\BinSync.Blazor.styles.css",
       "PackagePath": "staticwebassets\\BinSync.Blazor.styles.css"
     },
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\wwwroot\\css\\app.css",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\wwwroot\\css\\dashboard.css",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\wwwroot\\css\\dashboard.css",
       "PackagePath": "staticwebassets\\css\\dashboard.css"
     },
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\wwwroot\\favicon.png",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\RT\\source\\repos\\Binsync\\BinSync.Blazor\\wwwroot\\index.html",
+      "Id": "C:\\BinSyncV2\\BinSync.Blazor\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

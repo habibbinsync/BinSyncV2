@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BinSync.Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c63f1bf6038f5475ae981c48f141ea0ba6e57661")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ab5e98ec7a61d24c770e73c90fc0fd956a1f5550")]
 [assembly: System.Reflection.AssemblyProductAttribute("BinSync.Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BinSync.Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

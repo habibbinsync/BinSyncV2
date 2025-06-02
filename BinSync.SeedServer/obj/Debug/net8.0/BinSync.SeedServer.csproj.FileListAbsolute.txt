@@ -9,3 +9,15 @@ C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.See
 C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\refint\BinSync.SeedServer.dll
 C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.pdb
 C:\Users\RT\source\repos\Binsync\BinSync.SeedServer\obj\Debug\net8.0\ref\BinSync.SeedServer.dll
+C:\BinSyncV2\BinSync.SeedServer\bin\Debug\net8.0\BinSync.SeedServer.deps.json
+C:\BinSyncV2\BinSync.SeedServer\bin\Debug\net8.0\BinSync.SeedServer.dll
+C:\BinSyncV2\BinSync.SeedServer\bin\Debug\net8.0\BinSync.SeedServer.pdb
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.AssemblyInfoInputs.cache
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.AssemblyInfo.cs
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.csproj.CoreCompileInputs.cache
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.sourcelink.json
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.dll
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\refint\BinSync.SeedServer.dll
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\BinSync.SeedServer.pdb
+C:\BinSyncV2\BinSync.SeedServer\obj\Debug\net8.0\ref\BinSync.SeedServer.dll
