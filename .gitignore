@@ -149,3 +149,4 @@ docker-compose.*.yml
 BinSync.Infrastructure/Migrations/20250602171013_initial.cs
 BinSync.Infrastructure/Migrations/20250602171013_initial.Designer.cs
 BinSync.Infrastructure/Migrations/BinSyncDbContextModelSnapshot.cs
+*.cache
