@@ -420,3 +420,6 @@ BinSync.Application/obj/BinSync.Application.csproj.nuget.dgspec.json
 *.json
 *.cache
 *.json
+*.json
+BinSync.Application/obj/BinSync.Application.csproj.nuget.dgspec.json
+*.cache
