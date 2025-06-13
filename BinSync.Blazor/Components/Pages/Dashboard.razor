@@ -1,4 +1,5 @@
 ﻿@page "/"
+@using BinSync.Core.Services.DomainServices
 
 <div class="dashboard">
     <div class="dashboard-content">
@@ -46,3 +47,38 @@
         </div>
     </div>
 </div>
+@code{
+    private string uploadResult;
+    @inject IUploadFileService UploadFileService;
+    private async Task UploadFile(InputFileChangeEventArgs e)
+    {
+        try
+        {
+            // 1) Show the native MAUI file picker (single file)
+            var pickResult = await FilePicker.Default.PickAsync();
+            if (pickResult == null)
+            {
+                uploadResult = "No file selected.";
+                return;
+            }
+            long maxAllowedSize = 50L * 1024 * 1024;
+            using Stream fileStream = await pickResult.OpenReadAsync();
+
+            if (fileStream.CanSeek && fileStream.Length > maxAllowedSize)
+            {
+                uploadResult = $"{pickResult.FileName}\" exceeds 50 MB limit.";
+                return;
+            }
+            string result = await UploadFileService.StoreFileAsync(
+                fileStream,
+                pickResult.FileName,
+                maxAllowedSize,
+                cancellationToken: default);
+            uploadResult = $"Upload successful: {result}";
+        }
+        catch (Exception ex)
+        {
+            uploadResult = $"Upload failed: {ex.Message}";
+        }
+    }
+}

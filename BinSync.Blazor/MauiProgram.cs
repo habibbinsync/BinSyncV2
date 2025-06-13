@@ -13,7 +13,7 @@ namespace BinSync.Blazor
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                 });
-
+            builder.Services.AddDomainServices();
             builder.Services.AddMauiBlazorWebView();
 
 #if DEBUG
